@@ -1,0 +1,8 @@
+com\yimian\domain\Orders.class
+com\yimian\domain\Member.class
+com\yimian\domain\Permission.class
+com\yimian\domain\Role.class
+com\yimian\domain\Traveller.class
+com\yimian\domain\UserInfo.class
+com\yimian\domain\SysLog.class
+com\yimian\domain\Product.class

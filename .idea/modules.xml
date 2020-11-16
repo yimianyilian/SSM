@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yimian_ssm.iml" filepath="$PROJECT_DIR$/yimian_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimian_ssm_dao/yimian_ssm_dao.iml" filepath="$PROJECT_DIR$/yimian_ssm_dao/yimian_ssm_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimian_ssm_domain/yimian_ssm_domain.iml" filepath="$PROJECT_DIR$/yimian_ssm_domain/yimian_ssm_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimian_ssm_service/yimian_ssm_service.iml" filepath="$PROJECT_DIR$/yimian_ssm_service/yimian_ssm_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimian_ssm_utils/yimian_ssm_utils.iml" filepath="$PROJECT_DIR$/yimian_ssm_utils/yimian_ssm_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimian_ssm_web/yimian_ssm_web.iml" filepath="$PROJECT_DIR$/yimian_ssm_web/yimian_ssm_web.iml" />
+    </modules>
+  </component>
+</project>

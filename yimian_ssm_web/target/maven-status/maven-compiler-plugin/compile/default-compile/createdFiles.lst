@@ -1,0 +1,7 @@
+com\yimian\controller\ProductController.class
+com\yimian\controller\SysLogController.class
+com\yimian\controller\UserController.class
+com\yimian\controller\RoleController.class
+com\yimian\controller\PermissionController.class
+com\yimian\controller\OrdersController.class
+com\yimian\controller\LogAop.class

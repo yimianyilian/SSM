@@ -1,0 +1,8 @@
+com\yimian\dao\IOrdersDao.class
+com\yimian\dao\IRoleDao.class
+com\yimian\dao\IProductDao.class
+com\yimian\dao\IPermissionDao.class
+com\yimian\dao\IUserDao.class
+com\yimian\dao\ISysLogDao.class
+com\yimian\dao\ITravellerDao.class
+com\yimian\dao\IMemberDao.class

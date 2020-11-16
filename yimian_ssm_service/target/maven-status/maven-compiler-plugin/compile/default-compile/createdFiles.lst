@@ -1,0 +1,12 @@
+com\yimian\service\impl\PermissionServiceImpl.class
+com\yimian\service\impl\ProductServiceImpl.class
+com\yimian\service\impl\UserServiceImpl.class
+com\yimian\service\IUserService.class
+com\yimian\service\IPermissionService.class
+com\yimian\service\ISysLogService.class
+com\yimian\service\impl\SysLogServiceImpl.class
+com\yimian\service\IRoleService.class
+com\yimian\service\IOrderService.class
+com\yimian\service\IProductService.class
+com\yimian\service\impl\OrdersServiceImpl.class
+com\yimian\service\impl\RoleServiceImpl.class
